@@ -20,3 +20,4 @@ For CSS:
 2. changed div to nav. 
 3. Consolidated class and consolidated codes for them.
 4. Changed heading to meet sequential order for html so changed footer to h4 from h2.
+ 
