@@ -2,10 +2,10 @@
 UCB Challenge 1:
 Please note as per Standard rules for comments everything is in present tense. 
 This has the following in it:
-A. Definition of refactoring and accesibility.
-B. Note to Marketing Agency.
-C. Change for HTML & CSS coding(to make semantic HTML elements,logical structure independent of styling and positioning,accessible alt attributes for images, sequential order and change in title name)
-D. Deployment(consists of URL for Github Repository & Live URL) 
+1. Definition of refactoring and accesibility.
+2. Note to Marketing Agency.
+3. Change for HTML & CSS coding(to make semantic HTML elements,logical structure independent of styling and positioning,accessible alt attributes for images, sequential order and change in title name)
+4. Deployment(consists of URL for Github Repository & Live URL) 
 
 
 Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behaviors.
