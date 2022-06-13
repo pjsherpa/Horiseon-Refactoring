@@ -2,25 +2,24 @@
 UCB Challenge 1:
 Note:
 Please note comments are present in both html and css codes.
-Please note as per Standard rules for comments everything is in present tense. 
+Please note all information in readme.md is in present tense. 
 
 This has the following in it:
 1. Definition of refactoring and accesibility.
 2. Note to Marketing Agency.
-3. Change for HTML & CSS coding(to make semantic HTML elements,logical structure independent of styling and positioning,accessible alt attributes for images, sequential order and change in title name)
+3. Change for HTML & CSS coding(to make semantic HTML elements,logical structure independent of styling and positioning,accessible alt attributes for images, sequential order and change in title name,CSS selectors and properties are consolidated and CSS file is properly commented)
 4. Deployment(consists of URL for Github Repository & Live URL) 
 
+Definition:
+Refactoring: In refactoring an exisiting code is reorganized and restructured internally but it's external behavior is not changed.
 
-Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behaviors.
-
-HTML CSS Git Challenge: Code Refactor
-challenge involves a very important aspect of web development: <b>accessibility.<b>
-Accessibility can be viewed as the "ability to access" and benefit from some system or entity. The concept focuses on enabling access for people with disabilities, or enabling access through the use of assistive technology.
-However:
-Color combinations to avoid for people with color blindness include: Blue and Gray. 
+HTML CSS Git Challenge: Mention's Code Refactor
+challenge involves a very important aspect of web development: accessibility.
+Basically, web accessibility means that website, tools and technoligies are accessible to persons with disabilities. More specifically people are able to perceive, understand, navigate, interact and contribute to the web assistive technology.
+One of the Color combinations to avoid for people with color blindness include: Blue and Gray. 
 
 Note to Marketing Agency:
-Picking Blue and Gray colors for this webpage can lead an issue for accessibility for color blind people. To take in mind as Refactoring relates to only restructuring of internal structure and not external behaviors. No change made on the colors for this.
+Picking Blue and Gray colors for this webpage can lead an issue for accessibility for color blind people. To take in mind as Refactoring relates to only restructuring of internal structure and not external behaviors. No changes on the colors for this.
 
 Changes:
 For HTML:
@@ -42,6 +41,7 @@ For HTML:
 10. Change div to aside to make it semantic HTML element on section class "benefit".
 11. Change div to footer to make it semantic HTML element.
 12. Change Footer from h2 to h4 to meet sequential order.
+13. Provides comments on code.
   
 For CSS:
 1. Change class (.header) to element(header).
@@ -49,6 +49,7 @@ For CSS:
 3. Consolidate class and consolidate codes for changes made above.
 4. Change heading to meet sequential order for html so change footer to h4 from h2 
   (basically updated changes made on html)
+5. Provides comments on code.
 
 
 Deployment:
