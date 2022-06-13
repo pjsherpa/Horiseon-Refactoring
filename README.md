@@ -72,6 +72,7 @@ Semantic HTML element:
   5. Article
   6. Aside
   7. Footer
+  
   (img2)
   ![Screen Shot 2022-06-13 at 10 51 27 AM](https://user-images.githubusercontent.com/105903416/173414721-513a0eaa-c20e-4a14-a7d1-53532a306dfb.png)
 
