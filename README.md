@@ -1,5 +1,13 @@
 # Horiseon-Refactoring
-UCB Challenge 1
+UCB Challenge 1:
+
+
+Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behaviors.
+
+Accessibility can be viewed as the "ability to access" and benefit from some system or entity. The concept focuses on enabling access for people with disabilities, or enabling access through the use of assistive technology.
+However:
+Color combinations to avoid for people with color blindness include: Blue and Gray. That could lead an issue for accessibility for color blind people.
+
 
 For HTML:
 1.Changed title name from website to Horiseon.
@@ -22,4 +30,12 @@ For CSS:
 3. Consolidated class and consolidated codes for them.
 4. Changed heading to meet sequential order for html so changed footer to h4 from h2.
 5. Checked all CSS codes are functioning.
- 
+
+Deployment:
+URL for GitHub Repository
+https://github.com/pjsherpa/Horiseon-Refactoring
+
+Live URL page:
+https://pjsherpa.github.io/Horiseon-Refactoring/
+  
+ ![Screen Shot 2022-06-12 at 7 50 45 PM](https://user-images.githubusercontent.com/105903416/173270938-c7e66e19-1146-4bba-b0af-8708bcb38e8b.png)
