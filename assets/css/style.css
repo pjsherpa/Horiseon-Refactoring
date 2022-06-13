@@ -67,7 +67,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.backgroundimage {
     height:800px;
     width: 100%;
     margin-bottom: 25px;
@@ -87,14 +87,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* changed div class content to element main */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
    
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -105,30 +106,30 @@ p {
     background-color: #2589bd;
 }
 
-/* consolidated class benefit-brand and benefit-cost to benefit-lead */
-.benefit-lead {
+/* removed and consolidated class attributes from benefit-lead,benefit-brand and benefit-cost to element aside  */
+.aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-/* consolidated class benefit-brand h3 and benefit-cost h3 to benefit-lead h3*/
-.benefit-lead h3 {
+/* removed and consolidated classbenefit-lead h3, benefit-brand h3 and benefit-cost h3 to element aside h3*/
+.aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
 /* consolidated class benefit-brand img and benefit-cost img to benefit-lead img*/
-.benefit-lead img {
+.aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* consolidated class search enging optimization, online reputation management and social media marketing to class box */
+/* removed and consolidated class search engine optimization, online reputation management and social media marketing to element article */
 
-.box {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -136,12 +137,12 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* consolidated class search enging optimization img, online reputation management img and social media marketing img to class box img */
-.box img {
+/* removed and consolidated class search engine optimization img, online reputation management img and social media marketing img to element article img */
+article img {
     max-height: 200px;
 }
-/* consolidated class search enging optimization h2, online reputation management h2 and social media marketing h2 to class box h2*/
-.box h2 {
+/* removed and consolidated class search engine optimization h2, online reputation management h2 and social media marketing h2 to element article box h2*/
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
