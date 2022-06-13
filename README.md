@@ -23,7 +23,7 @@ Picking Blue and Gray colors for this webpage can lead an issue for accessibilit
 For HTML:
   
   <--head-->
-1. Change title name from website to Horiseon also added <meta name="“viewport”" content="“width=device-width," initial-scale="1.0&quot;">.
+1. Change title name from website to Horiseon also add <meta name="“viewport”" content="“width=device-width," initial-scale="1.0&quot;">.
     Meta viewport added to make it accessible for viewing the webpage in hand held devices.
     
     <--Body-->
