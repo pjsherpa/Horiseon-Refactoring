@@ -1,6 +1,9 @@
 # Horiseon-Refactoring
 UCB Challenge 1:
+Note:
+Please note comments are present in both html and css codes.
 Please note as per Standard rules for comments everything is in present tense. 
+
 This has the following in it:
 1. Definition of refactoring and accesibility.
 2. Note to Marketing Agency.
@@ -10,16 +13,16 @@ This has the following in it:
 
 Refactoring is a disciplined technique for restructuring an existing body of code, altering its internal structure without changing its external behaviors.
 
-<b>HTML CSS Git Challenge: Code Refactor<b>
+HTML CSS Git Challenge: Code Refactor
 challenge involves a very important aspect of web development: <b>accessibility.<b>
 Accessibility can be viewed as the "ability to access" and benefit from some system or entity. The concept focuses on enabling access for people with disabilities, or enabling access through the use of assistive technology.
 However:
 Color combinations to avoid for people with color blindness include: Blue and Gray. 
 
-<b>Note to Marketing Agency:<b>
+Note to Marketing Agency:
 Picking Blue and Gray colors for this webpage can lead an issue for accessibility for color blind people. To take in mind as Refactoring relates to only restructuring of internal structure and not external behaviors. No change made on the colors for this.
 
-<b>Changes:<b>
+Changes:
 For HTML:
   
   <--head-->
@@ -48,11 +51,13 @@ For CSS:
   (basically updated changes made on html)
 
 
-<b>Deployment:<b>
+Deployment:
 URL for GitHub Repository
 https://github.com/pjsherpa/Horiseon-Refactoring
 
 Live URL page:
 https://pjsherpa.github.io/Horiseon-Refactoring/
   
+Up and running with no issues with no errors.
+      
  ![Screen Shot 2022-06-12 at 7 50 45 PM](https://user-images.githubusercontent.com/105903416/173270938-c7e66e19-1146-4bba-b0af-8708bcb38e8b.png)
