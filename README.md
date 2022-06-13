@@ -37,7 +37,7 @@ For CSS:
   (basically updated changes made on html)
 
 
-<b>Deployment:,b>
+<b>Deployment:<b>
 URL for GitHub Repository
 https://github.com/pjsherpa/Horiseon-Refactoring
 
