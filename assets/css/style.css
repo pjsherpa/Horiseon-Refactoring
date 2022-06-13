@@ -10,7 +10,7 @@
 
 header {
     
-    padding:10px;
+    padding:20px;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
        background-color: #2a607c;
         color: #ffffff;
@@ -145,6 +145,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* changed .footer to footer */
 /* changed heading to meet sequential order for html so changed footer to h4 from h2  */
 /* consolidated footer h4 to footer */
 footer {
