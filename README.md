@@ -30,7 +30,7 @@ For HTML:
     Meta viewport added to make it accessible for viewing the webpage in hand held devices.
     
     <--Body-->
-2. Change div class="header" to <header> remove div from list section to make it semantic HTML element.
+2. Change div class="header" to header to make it semantic HTML element.
 3. Change div to nav to make it semantic HTML element.
 4. Change div to "main" to make it a semantic HTML element.
 5. Change div to section to make it a semantic HTML element and changed class name to backgroundimage to understand what it is.
